@@ -10,6 +10,6 @@
 * git add .
 * git commit -m "test"
 * git push
-* git pull
 
-<img width="10%" height="15%"><![alt text](image-5.png)/img>
+
+* git pull
