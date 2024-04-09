@@ -7,4 +7,5 @@
 
 ## git hub
 ----------------------
-
+* git add .
++ git push
