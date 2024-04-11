@@ -10,6 +10,7 @@
 * git add .
 * git commit -m "test"
 * git push
-
-
 * git pull
+
+
+# 안녕하세요. 아침 뭐 드셨어요?
